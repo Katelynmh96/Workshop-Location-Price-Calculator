@@ -1,0 +1,20 @@
+C:\Users\khind\source\repos\workshop location\workshop location\bin\Debug\workshop location.exe.config
+C:\Users\khind\source\repos\workshop location\workshop location\bin\Debug\workshop location.exe
+C:\Users\khind\source\repos\workshop location\workshop location\bin\Debug\workshop location.pdb
+C:\Users\khind\source\repos\workshop location\workshop location\obj\Debug\workshop location.csprojAssemblyReference.cache
+C:\Users\khind\source\repos\workshop location\workshop location\obj\Debug\workshop_location.Form1.resources
+C:\Users\khind\source\repos\workshop location\workshop location\obj\Debug\workshop_location.Properties.Resources.resources
+C:\Users\khind\source\repos\workshop location\workshop location\obj\Debug\workshop location.csproj.GenerateResource.cache
+C:\Users\khind\source\repos\workshop location\workshop location\obj\Debug\workshop location.csproj.CoreCompileInputs.cache
+C:\Users\khind\source\repos\workshop location\workshop location\obj\Debug\workshop location.exe
+C:\Users\khind\source\repos\workshop location\workshop location\obj\Debug\workshop location.pdb
+C:\Users\khind\Desktop\workshop location\workshop location\bin\Debug\workshop location.exe.config
+C:\Users\khind\Desktop\workshop location\workshop location\bin\Debug\workshop location.exe
+C:\Users\khind\Desktop\workshop location\workshop location\bin\Debug\workshop location.pdb
+C:\Users\khind\Desktop\workshop location\workshop location\obj\Debug\workshop location.csprojAssemblyReference.cache
+C:\Users\khind\Desktop\workshop location\workshop location\obj\Debug\workshop_location.Form1.resources
+C:\Users\khind\Desktop\workshop location\workshop location\obj\Debug\workshop_location.Properties.Resources.resources
+C:\Users\khind\Desktop\workshop location\workshop location\obj\Debug\workshop location.csproj.GenerateResource.cache
+C:\Users\khind\Desktop\workshop location\workshop location\obj\Debug\workshop location.csproj.CoreCompileInputs.cache
+C:\Users\khind\Desktop\workshop location\workshop location\obj\Debug\workshop location.exe
+C:\Users\khind\Desktop\workshop location\workshop location\obj\Debug\workshop location.pdb
